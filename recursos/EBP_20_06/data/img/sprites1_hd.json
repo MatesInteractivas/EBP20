@@ -1,0 +1,164 @@
+{"frames": {
+
+"1_title.png":
+{
+	"frame": {"x":1070,"y":912,"w":548,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":548,"h":112},
+	"sourceSize": {"w":548,"h":112}
+},
+"2_title.png":
+{
+	"frame": {"x":4,"y":1850,"w":394,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":394,"h":110},
+	"sourceSize": {"w":394,"h":110}
+},
+"3_part.png":
+{
+	"frame": {"x":1804,"y":1022,"w":228,"h":268},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":228,"h":268},
+	"sourceSize": {"w":228,"h":268}
+},
+"3_title.png":
+{
+	"frame": {"x":1622,"y":912,"w":404,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":404,"h":106},
+	"sourceSize": {"w":404,"h":106}
+},
+"4_title.png":
+{
+	"frame": {"x":1122,"y":1914,"w":364,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":364,"h":112},
+	"sourceSize": {"w":364,"h":112}
+},
+"5_planet.png":
+{
+	"frame": {"x":1070,"y":4,"w":904,"h":904},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":904,"h":904},
+	"sourceSize": {"w":904,"h":904}
+},
+"5_title.png":
+{
+	"frame": {"x":502,"y":1734,"w":464,"h":122},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":464,"h":122},
+	"sourceSize": {"w":464,"h":122}
+},
+"6_title.png":
+{
+	"frame": {"x":4,"y":1734,"w":494,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":494,"h":112},
+	"sourceSize": {"w":494,"h":112}
+},
+"7_planet.png":
+{
+	"frame": {"x":1666,"y":1682,"w":352,"h":350},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":352,"h":350},
+	"sourceSize": {"w":352,"h":350}
+},
+"7_title.png":
+{
+	"frame": {"x":1122,"y":1806,"w":376,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":376,"h":104},
+	"sourceSize": {"w":376,"h":104}
+},
+"8_planet.png":
+{
+	"frame": {"x":1146,"y":1028,"w":654,"h":650},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":654,"h":650},
+	"sourceSize": {"w":654,"h":650}
+},
+"8_title.png":
+{
+	"frame": {"x":1146,"y":1682,"w":516,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":516,"h":120},
+	"sourceSize": {"w":516,"h":120}
+},
+"gear_big.png":
+{
+	"frame": {"x":1502,"y":1806,"w":152,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":158},
+	"sourceSize": {"w":152,"h":158}
+},
+"gear_small.png":
+{
+	"frame": {"x":584,"y":1860,"w":146,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":140},
+	"sourceSize": {"w":146,"h":140}
+},
+"info.png":
+{
+	"frame": {"x":1804,"y":1294,"w":148,"h":250},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":250},
+	"sourceSize": {"w":148,"h":250}
+},
+"info_cancel.png":
+{
+	"frame": {"x":402,"y":1860,"w":178,"h":178},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":178},
+	"sourceSize": {"w":178,"h":178}
+},
+"modal_back.png":
+{
+	"frame": {"x":4,"y":1074,"w":1138,"h":656},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1138,"h":656},
+	"sourceSize": {"w":1138,"h":656}
+},
+"sun.png":
+{
+	"frame": {"x":4,"y":4,"w":1062,"h":1066},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1062,"h":1066},
+	"sourceSize": {"w":1062,"h":1066}
+},
+"voice.png":
+{
+	"frame": {"x":970,"y":1734,"w":148,"h":250},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":250},
+	"sourceSize": {"w":148,"h":250}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "sprites1_hd.png",
+	"format": "RGBA8888",
+	"size": {"w":2036,"h":2042},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0e46072a17352a244801fc6e8c63f463:94011447fc4d5cbcab7fbb119114e5a8:7acb7d70f99d9d2ec5103daa255be9b9$"
+}
+}

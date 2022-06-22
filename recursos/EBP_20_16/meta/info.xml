@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recurso 
+	id="EBP_20_16" 
+	nivel="Preescolar" 
+	area="Identidad personal" 
+	plataforma="HTML 5" 
+	>
+	<titulo><![CDATA[
+		La estrella diminuta
+	]]></titulo>
+	
+	<Descripcion><![CDATA[
+Audiocuento que trata sobre una pequeña estrella y como su inquietud la lleva a vivir una peligrosa aventura. Autor Pedro Pablo Sacristán.
+	]]></Descripcion>
+	<tags>
+	<![CDATA[
+		Desarrollo personal y social, Identidad personal, audiocuento, audio cuento, video, cuento, estrella, estrellita, aventura, diversión, papás, dragón, fantasma
+	]]></tags>
+</recurso>
+
+<!--
+********************************************************************************
+                               **** Áreas **** 
+Matemáticas 
+	Aritmética
+		Fracciones
+	Álgebra
+		Combinatoria
+		Ecuaciones lineales
+		Ecuaciones polinomiales
+		Polinomios
+		Álgebra lineal
+		Teoría de grupos
+		Álgebra abstracta
+	Geometría
+		Geometría elemental
+		Geometría clásica
+		Geometría analítica
+	Trigonometría 
+	Probabilidad 
+		Cálculo de probabilidades
+		Eventos
+		Variables aleatorias
+		Ley de los grandes números
+		Teorema del límite central
+	Estadística
+		Medidas de tendencia central
+		Muestreo
+		Distribuciones
+		Inferencia
+	Cálculo
+		Funciones 
+		Límites
+		Continuidad
+		Derivadas 
+		Integrales 
+	Teoría de números
+	Teoría de gráficas
+Física
+	Mecánica
+	Electromagnetismo
+	Óptica
+	Físico-química 
+	Termodinámica
+	Mecánica estadística
+	Mecánica cuántica
+	Relatividad
+
+********************************************************************************
+
+********************************************************************************
+                             **** Niveles ****
+
+	Primaria
+	Preescolar
+	Secundaria
+	Bachillerato
+	Licenciatura
+	Posgrado 
+	Maestria
+	Doctorado
+
+********************************************************************************
+
+-->

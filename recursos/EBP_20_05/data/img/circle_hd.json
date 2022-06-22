@@ -1,0 +1,92 @@
+{"frames": {
+
+"1_cutout.png":
+{
+	"frame": {"x":4,"y":4,"w":842,"h":840},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":842,"h":840},
+	"sourceSize": {"w":842,"h":840}
+},
+"1_example_1.png":
+{
+	"frame": {"x":850,"y":824,"w":512,"h":504},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":504},
+	"sourceSize": {"w":512,"h":504}
+},
+"1_example_2.png":
+{
+	"frame": {"x":990,"y":1332,"w":290,"h":290},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":290,"h":290},
+	"sourceSize": {"w":290,"h":290}
+},
+"1_example_3.png":
+{
+	"frame": {"x":676,"y":1332,"w":310,"h":308},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":310,"h":308},
+	"sourceSize": {"w":310,"h":308}
+},
+"1_full.png":
+{
+	"frame": {"x":850,"y":4,"w":818,"h":816},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":818,"h":816},
+	"sourceSize": {"w":818,"h":816}
+},
+"1_part_1.png":
+{
+	"frame": {"x":426,"y":848,"w":418,"h":416},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":418,"h":416},
+	"sourceSize": {"w":418,"h":416}
+},
+"1_part_2.png":
+{
+	"frame": {"x":1366,"y":1244,"w":416,"h":416},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":416,"h":416},
+	"sourceSize": {"w":416,"h":416}
+},
+"1_part_3.png":
+{
+	"frame": {"x":4,"y":848,"w":418,"h":416},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":418,"h":416},
+	"sourceSize": {"w":418,"h":416}
+},
+"1_part_4.png":
+{
+	"frame": {"x":1366,"y":824,"w":416,"h":416},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":416,"h":416},
+	"sourceSize": {"w":416,"h":416}
+},
+"1_title.png":
+{
+	"frame": {"x":4,"y":1268,"w":668,"h":166},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":668,"h":166},
+	"sourceSize": {"w":668,"h":166}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "circle_hd.png",
+	"format": "RGBA8888",
+	"size": {"w":1786,"h":1664},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3898d37f61ef7149f077e23a9deed6ba:1/1$"
+}
+}

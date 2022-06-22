@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recurso 
+	id="EBP_20_01" 
+	nivel="Preescolar" 
+	area="Lenguaje escrito" 
+	plataforma="HTML 5" 
+	>
+	<titulo><![CDATA[
+		¡Vamos al zoológico!
+	]]></titulo>
+	
+	<Descripcion><![CDATA[
+Este interactivo presentará las vocales y su inclusión en nombres de animales. Por medio de la mnemotecnia se reforzará esta asociación mental y al mismo tiempo se enriquecerá el conocimiento del mundo natural en el niño.
+	]]></Descripcion>
+	<tags>
+	<![CDATA[
+		Lenguaje y comunicación, Lenguaje escrito, Lenguaje oral, vocales, zoológico, animales, Santiago, Merlín, Ardilla, Elefante, Oso, Iguana, Urraca
+	]]></tags>
+</recurso>
+
+<!--
+********************************************************************************
+                               **** Áreas **** 
+Matemáticas 
+	Aritmética
+		Fracciones
+	Álgebra
+		Combinatoria
+		Ecuaciones lineales
+		Ecuaciones polinomiales
+		Polinomios
+		Álgebra lineal
+		Teoría de grupos
+		Álgebra abstracta
+	Geometría
+		Geometría elemental
+		Geometría clásica
+		Geometría analítica
+	Trigonometría 
+	Probabilidad 
+		Cálculo de probabilidades
+		Eventos
+		Variables aleatorias
+		Ley de los grandes números
+		Teorema del límite central
+	Estadística
+		Medidas de tendencia central
+		Muestreo
+		Distribuciones
+		Inferencia
+	Cálculo
+		Funciones 
+		Límites
+		Continuidad
+		Derivadas 
+		Integrales 
+	Teoría de números
+	Teoría de gráficas
+Física
+	Mecánica
+	Electromagnetismo
+	Óptica
+	Físico-química 
+	Termodinámica
+	Mecánica estadística
+	Mecánica cuántica
+	Relatividad
+
+********************************************************************************
+
+********************************************************************************
+                             **** Niveles ****
+
+	Primaria
+	Preescolar
+	Secundaria
+	Bachillerato
+	Licenciatura
+	Posgrado 
+	Maestria
+	Doctorado
+
+********************************************************************************
+
+-->

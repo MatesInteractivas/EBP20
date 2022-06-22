@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recurso 
+	id="EBP_20_13" 
+	nivel="Preescolar" 
+	area="Relaciones interpersonales" 
+	plataforma="HTML 5" 
+	>
+	<titulo><![CDATA[
+		El gran palacio de la mentira
+	]]></titulo>
+	
+	<Descripcion><![CDATA[
+Audiocuento que trata sobre la construcción de 2 palacios, el de la verdad y el de la mentira y de cómo las mentiras pueden tener consecuencias negativas. Autor Pedro Pablo Sacristán.
+	]]></Descripcion>
+	<tags>
+	<![CDATA[
+		Desarrollo personal y social, Relaciones interpersonales, audiocuento, audio cuento, video, palacio, palacios, mentira, mentiras, verdad, verdades, duendes
+	]]></tags>
+</recurso>
+
+<!--
+********************************************************************************
+                               **** Áreas **** 
+Matemáticas 
+	Aritmética
+		Fracciones
+	Álgebra
+		Combinatoria
+		Ecuaciones lineales
+		Ecuaciones polinomiales
+		Polinomios
+		Álgebra lineal
+		Teoría de grupos
+		Álgebra abstracta
+	Geometría
+		Geometría elemental
+		Geometría clásica
+		Geometría analítica
+	Trigonometría 
+	Probabilidad 
+		Cálculo de probabilidades
+		Eventos
+		Variables aleatorias
+		Ley de los grandes números
+		Teorema del límite central
+	Estadística
+		Medidas de tendencia central
+		Muestreo
+		Distribuciones
+		Inferencia
+	Cálculo
+		Funciones 
+		Límites
+		Continuidad
+		Derivadas 
+		Integrales 
+	Teoría de números
+	Teoría de gráficas
+Física
+	Mecánica
+	Electromagnetismo
+	Óptica
+	Físico-química 
+	Termodinámica
+	Mecánica estadística
+	Mecánica cuántica
+	Relatividad
+
+********************************************************************************
+
+********************************************************************************
+                             **** Niveles ****
+
+	Primaria
+	Preescolar
+	Secundaria
+	Bachillerato
+	Licenciatura
+	Posgrado 
+	Maestria
+	Doctorado
+
+********************************************************************************
+
+-->

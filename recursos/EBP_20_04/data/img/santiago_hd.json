@@ -1,0 +1,76 @@
+{"frames": {
+
+"santiago_arm_left.png":
+{
+	"frame": {"x":446,"y":1320,"w":364,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":364,"h":156},
+	"sourceSize": {"w":364,"h":156}
+},
+"santiago_arm_right.png":
+{
+	"frame": {"x":446,"y":1480,"w":368,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":368,"h":154},
+	"sourceSize": {"w":368,"h":154}
+},
+"santiago_body.png":
+{
+	"frame": {"x":4,"y":1320,"w":244,"h":390},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":244,"h":390},
+	"sourceSize": {"w":244,"h":390}
+},
+"santiago_cutout.png":
+{
+	"frame": {"x":4,"y":4,"w":1068,"h":1312},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1068,"h":1312},
+	"sourceSize": {"w":1068,"h":1312}
+},
+"santiago_full.png":
+{
+	"frame": {"x":1076,"y":4,"w":814,"h":1204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":814,"h":1204},
+	"sourceSize": {"w":814,"h":1204}
+},
+"santiago_head.png":
+{
+	"frame": {"x":1076,"y":1212,"w":608,"h":494},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":608,"h":494},
+	"sourceSize": {"w":608,"h":494}
+},
+"santiago_leg_left.png":
+{
+	"frame": {"x":346,"y":1320,"w":96,"h":368},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":368},
+	"sourceSize": {"w":96,"h":368}
+},
+"santiago_leg_right.png":
+{
+	"frame": {"x":252,"y":1320,"w":90,"h":372},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":372},
+	"sourceSize": {"w":90,"h":372}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "santiago_hd.png",
+	"format": "RGBA8888",
+	"size": {"w":1894,"h":1714},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ea7d0eb0a2b7a672d759e57c7ad5c0d4:1/1$"
+}
+}

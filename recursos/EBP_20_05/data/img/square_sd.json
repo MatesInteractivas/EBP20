@@ -1,0 +1,92 @@
+{"frames": {
+
+"2_cutout.png":
+{
+	"frame": {"x":2,"y":2,"w":406,"h":405},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":406,"h":405},
+	"sourceSize": {"w":406,"h":405}
+},
+"2_example_1.png":
+{
+	"frame": {"x":806,"y":205,"w":156,"h":179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":179},
+	"sourceSize": {"w":156,"h":179}
+},
+"2_example_2.png":
+{
+	"frame": {"x":611,"y":397,"w":144,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":144},
+	"sourceSize": {"w":144,"h":144}
+},
+"2_example_3.png":
+{
+	"frame": {"x":806,"y":386,"w":148,"h":167},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":167},
+	"sourceSize": {"w":148,"h":167}
+},
+"2_full.png":
+{
+	"frame": {"x":410,"y":2,"w":394,"h":393},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":394,"h":393},
+	"sourceSize": {"w":394,"h":393}
+},
+"2_part_1.png":
+{
+	"frame": {"x":806,"y":2,"w":201,"h":201},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":201},
+	"sourceSize": {"w":201,"h":201}
+},
+"2_part_2.png":
+{
+	"frame": {"x":408,"y":409,"w":201,"h":201},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":201},
+	"sourceSize": {"w":201,"h":201}
+},
+"2_part_3.png":
+{
+	"frame": {"x":205,"y":409,"w":201,"h":201},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":201},
+	"sourceSize": {"w":201,"h":201}
+},
+"2_part_4.png":
+{
+	"frame": {"x":2,"y":409,"w":201,"h":201},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":201},
+	"sourceSize": {"w":201,"h":201}
+},
+"2_title.png":
+{
+	"frame": {"x":611,"y":555,"w":334,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":334,"h":83},
+	"sourceSize": {"w":334,"h":83}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "square_sd.png",
+	"format": "RGBA8888",
+	"size": {"w":1019,"h":640},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:fa64a25ade6bd6a5456a8ecd7373ddbb:1/1$"
+}
+}

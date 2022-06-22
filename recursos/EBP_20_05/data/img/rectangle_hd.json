@@ -1,0 +1,92 @@
+{"frames": {
+
+"4_cutout.png":
+{
+	"frame": {"x":4,"y":4,"w":964,"h":496},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":964,"h":496},
+	"sourceSize": {"w":964,"h":496}
+},
+"4_example_1.png":
+{
+	"frame": {"x":1490,"y":728,"w":328,"h":236},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":328,"h":236},
+	"sourceSize": {"w":328,"h":236}
+},
+"4_example_2.png":
+{
+	"frame": {"x":4,"y":504,"w":482,"h":276},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":482,"h":276},
+	"sourceSize": {"w":482,"h":276}
+},
+"4_example_3.png":
+{
+	"frame": {"x":676,"y":752,"w":328,"h":206},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":328,"h":206},
+	"sourceSize": {"w":328,"h":206}
+},
+"4_full.png":
+{
+	"frame": {"x":972,"y":4,"w":940,"h":472},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":940,"h":472},
+	"sourceSize": {"w":940,"h":472}
+},
+"4_part_1.png":
+{
+	"frame": {"x":1008,"y":728,"w":478,"h":244},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":478,"h":244},
+	"sourceSize": {"w":478,"h":244}
+},
+"4_part_2.png":
+{
+	"frame": {"x":1454,"y":480,"w":478,"h":244},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":478,"h":244},
+	"sourceSize": {"w":478,"h":244}
+},
+"4_part_3.png":
+{
+	"frame": {"x":972,"y":480,"w":478,"h":244},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":478,"h":244},
+	"sourceSize": {"w":478,"h":244}
+},
+"4_part_4.png":
+{
+	"frame": {"x":490,"y":504,"w":478,"h":244},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":478,"h":244},
+	"sourceSize": {"w":478,"h":244}
+},
+"4_title.png":
+{
+	"frame": {"x":4,"y":784,"w":668,"h":166},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":668,"h":166},
+	"sourceSize": {"w":668,"h":166}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "rectangle_hd.png",
+	"format": "RGBA8888",
+	"size": {"w":1936,"h":976},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:398fe90eb186d13be09d1003a0a3bb67:1/1$"
+}
+}

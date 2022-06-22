@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recurso 
+	id="EBP_20_14" 
+	nivel="Preescolar" 
+	area="Mundo natural" 
+	plataforma="HTML 5" 
+	>
+	<titulo><![CDATA[
+		Carlos y el caballo
+	]]></titulo>
+	
+	<Descripcion><![CDATA[
+Audiocuento que trata de Carlos un niño que tiene todos los juguetes y cosas materiales que desea y a las que no les dedica cuidado. Hasta que le regalan un caballo, Carlos entiende que no debe ser egoista y debe cuidar y valorar sus poseciones.
+	]]></Descripcion>
+	<tags>
+	<![CDATA[
+		Exploración y conocimiento del mundo, Mundo natural, audiocuento, audio cuento, video, Carlos, caballo, juguetes, amistad, egoismo, valorar, cuidar, compartir
+	]]></tags>
+</recurso>
+
+<!--
+********************************************************************************
+                               **** Áreas **** 
+Matemáticas 
+	Aritmética
+		Fracciones
+	Álgebra
+		Combinatoria
+		Ecuaciones lineales
+		Ecuaciones polinomiales
+		Polinomios
+		Álgebra lineal
+		Teoría de grupos
+		Álgebra abstracta
+	Geometría
+		Geometría elemental
+		Geometría clásica
+		Geometría analítica
+	Trigonometría 
+	Probabilidad 
+		Cálculo de probabilidades
+		Eventos
+		Variables aleatorias
+		Ley de los grandes números
+		Teorema del límite central
+	Estadística
+		Medidas de tendencia central
+		Muestreo
+		Distribuciones
+		Inferencia
+	Cálculo
+		Funciones 
+		Límites
+		Continuidad
+		Derivadas 
+		Integrales 
+	Teoría de números
+	Teoría de gráficas
+Física
+	Mecánica
+	Electromagnetismo
+	Óptica
+	Físico-química 
+	Termodinámica
+	Mecánica estadística
+	Mecánica cuántica
+	Relatividad
+
+********************************************************************************
+
+********************************************************************************
+                             **** Niveles ****
+
+	Primaria
+	Preescolar
+	Secundaria
+	Bachillerato
+	Licenciatura
+	Posgrado 
+	Maestria
+	Doctorado
+
+********************************************************************************
+
+-->

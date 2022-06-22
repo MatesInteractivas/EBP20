@@ -1,0 +1,84 @@
+{"frames": {
+
+"3_cutout.png":
+{
+	"frame": {"x":4,"y":4,"w":962,"h":844},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":962,"h":844},
+	"sourceSize": {"w":962,"h":844}
+},
+"3_example_1.png":
+{
+	"frame": {"x":1038,"y":1696,"w":358,"h":312},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":358,"h":312},
+	"sourceSize": {"w":358,"h":312}
+},
+"3_example_2.png":
+{
+	"frame": {"x":970,"y":426,"w":358,"h":336},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":358,"h":336},
+	"sourceSize": {"w":358,"h":336}
+},
+"3_example_3.png":
+{
+	"frame": {"x":676,"y":1696,"w":358,"h":334},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":358,"h":334},
+	"sourceSize": {"w":358,"h":334}
+},
+"3_full.png":
+{
+	"frame": {"x":4,"y":852,"w":938,"h":820},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":938,"h":820},
+	"sourceSize": {"w":938,"h":820}
+},
+"3_part_1.png":
+{
+	"frame": {"x":970,"y":4,"w":476,"h":418},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":476,"h":418},
+	"sourceSize": {"w":476,"h":418}
+},
+"3_part_2.png":
+{
+	"frame": {"x":946,"y":1274,"w":478,"h":418},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":478,"h":418},
+	"sourceSize": {"w":478,"h":418}
+},
+"3_part_3.png":
+{
+	"frame": {"x":946,"y":852,"w":478,"h":418},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":478,"h":418},
+	"sourceSize": {"w":478,"h":418}
+},
+"3_title.png":
+{
+	"frame": {"x":4,"y":1676,"w":668,"h":166},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":668,"h":166},
+	"sourceSize": {"w":668,"h":166}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "triangle_hd.png",
+	"format": "RGBA8888",
+	"size": {"w":1450,"h":2034},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e0a8f75f7235cdcba5cec1394e664ffd:1/1$"
+}
+}

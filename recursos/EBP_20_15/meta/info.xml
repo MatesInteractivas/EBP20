@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recurso 
+	id="EBP_20_15" 
+	nivel="Preescolar" 
+	area="Identidad personal" 
+	plataforma="HTML 5" 
+	>
+	<titulo><![CDATA[
+		La cola de león
+	]]></titulo>
+	
+	<Descripcion><![CDATA[
+Audiocuento de un niño que es agredido constantemente por otros niños por que lo creen más debil. Un mago regala una cola de león al niño para darle valor y poder enfrentar a los niños que lo molestan.
+	]]></Descripcion>
+	<tags>
+	<![CDATA[
+		Desarrollo personal y social, Identidad personal, auiocuento, audio cuento, video, cola, león, mago, agresión, bullying, acoso, enfrentar, defenderse, valiente, poderes
+	]]></tags>
+</recurso>
+
+<!--
+********************************************************************************
+                               **** Áreas **** 
+Matemáticas 
+	Aritmética
+		Fracciones
+	Álgebra
+		Combinatoria
+		Ecuaciones lineales
+		Ecuaciones polinomiales
+		Polinomios
+		Álgebra lineal
+		Teoría de grupos
+		Álgebra abstracta
+	Geometría
+		Geometría elemental
+		Geometría clásica
+		Geometría analítica
+	Trigonometría 
+	Probabilidad 
+		Cálculo de probabilidades
+		Eventos
+		Variables aleatorias
+		Ley de los grandes números
+		Teorema del límite central
+	Estadística
+		Medidas de tendencia central
+		Muestreo
+		Distribuciones
+		Inferencia
+	Cálculo
+		Funciones 
+		Límites
+		Continuidad
+		Derivadas 
+		Integrales 
+	Teoría de números
+	Teoría de gráficas
+Física
+	Mecánica
+	Electromagnetismo
+	Óptica
+	Físico-química 
+	Termodinámica
+	Mecánica estadística
+	Mecánica cuántica
+	Relatividad
+
+********************************************************************************
+
+********************************************************************************
+                             **** Niveles ****
+
+	Primaria
+	Preescolar
+	Secundaria
+	Bachillerato
+	Licenciatura
+	Posgrado 
+	Maestria
+	Doctorado
+
+********************************************************************************
+
+-->

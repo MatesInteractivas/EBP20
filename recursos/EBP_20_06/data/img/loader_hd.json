@@ -1,0 +1,68 @@
+{"frames": {
+
+"astronaut.png":
+{
+	"frame": {"x":854,"y":374,"w":194,"h":254},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":194,"h":254},
+	"sourceSize": {"w":194,"h":254}
+},
+"fire.png":
+{
+	"frame": {"x":854,"y":632,"w":162,"h":122},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":162,"h":122},
+	"sourceSize": {"w":162,"h":122}
+},
+"hand.png":
+{
+	"frame": {"x":652,"y":4,"w":450,"h":366},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":366},
+	"sourceSize": {"w":450,"h":366}
+},
+"ship.png":
+{
+	"frame": {"x":4,"y":4,"w":644,"h":406},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":644,"h":406},
+	"sourceSize": {"w":644,"h":406}
+},
+"shuttle.png":
+{
+	"frame": {"x":4,"y":414,"w":476,"h":394},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":476,"h":394},
+	"sourceSize": {"w":476,"h":394}
+},
+"start.png":
+{
+	"frame": {"x":484,"y":414,"w":366,"h":366},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":366,"h":366},
+	"sourceSize": {"w":366,"h":366}
+},
+"text.png":
+{
+	"frame": {"x":484,"y":784,"w":610,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":610,"h":118},
+	"sourceSize": {"w":610,"h":118}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "loader_hd.png",
+	"format": "RGBA8888",
+	"size": {"w":1106,"h":906},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:aadaf416996d22e1df7b45457a959b54:32c632f66900d9ef1c1574686792101b:b0c588432aff44a01e850d5d2cb7a68d$"
+}
+}

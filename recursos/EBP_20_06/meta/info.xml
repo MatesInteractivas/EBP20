@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recurso 
+	id="EBP_20_06" 
+	nivel="Preescolar" 
+	area="Mundo natural" 
+	plataforma="HTML 5" 
+	>
+	<titulo><![CDATA[
+		El viaje de Romildo
+	]]></titulo>
+	
+	<Descripcion><![CDATA[
+En este interactivo el niño conocerá el Sistema Solar, los 8 planetas que lo conforman y sus características principales (ubicación, color, tamaño o composición).
+	]]></Descripcion>
+	<tags>
+	<![CDATA[
+		Exploración y conocimiento del mundo, Mundo natural, sistema solar, planetas, Romildo, robot, mercurio, venus, tierra, marte, júpiter, saturno, urano, neptuno, sol, estacion espacial, rompecabezas
+	]]></tags>
+</recurso>
+
+<!--
+********************************************************************************
+                               **** Áreas **** 
+Matemáticas 
+	Aritmética
+		Fracciones
+	Álgebra
+		Combinatoria
+		Ecuaciones lineales
+		Ecuaciones polinomiales
+		Polinomios
+		Álgebra lineal
+		Teoría de grupos
+		Álgebra abstracta
+	Geometría
+		Geometría elemental
+		Geometría clásica
+		Geometría analítica
+	Trigonometría 
+	Probabilidad 
+		Cálculo de probabilidades
+		Eventos
+		Variables aleatorias
+		Ley de los grandes números
+		Teorema del límite central
+	Estadística
+		Medidas de tendencia central
+		Muestreo
+		Distribuciones
+		Inferencia
+	Cálculo
+		Funciones 
+		Límites
+		Continuidad
+		Derivadas 
+		Integrales 
+	Teoría de números
+	Teoría de gráficas
+Física
+	Mecánica
+	Electromagnetismo
+	Óptica
+	Físico-química 
+	Termodinámica
+	Mecánica estadística
+	Mecánica cuántica
+	Relatividad
+
+********************************************************************************
+
+********************************************************************************
+                             **** Niveles ****
+
+	Primaria
+	Preescolar
+	Secundaria
+	Bachillerato
+	Licenciatura
+	Posgrado 
+	Maestria
+	Doctorado
+
+********************************************************************************
+
+-->

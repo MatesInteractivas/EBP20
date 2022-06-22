@@ -1,0 +1,36 @@
+{"frames": {
+
+"car_1.png":
+{
+	"frame": {"x":4,"y":648,"w":1048,"h":646},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1048,"h":646},
+	"sourceSize": {"w":1048,"h":646}
+},
+"car_2.png":
+{
+	"frame": {"x":4,"y":1298,"w":1048,"h":646},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1048,"h":646},
+	"sourceSize": {"w":1048,"h":646}
+},
+"car_4.png":
+{
+	"frame": {"x":4,"y":4,"w":1126,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1126,"h":640},
+	"sourceSize": {"w":1126,"h":640}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "sprites3_hd.png",
+	"format": "RGBA8888",
+	"size": {"w":1134,"h":1948},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e3a0ab1a5a0fe0a8aca3afd03a6f1bb1:bddb5b7af16397be82e01af929eaafe7:dcdac32b36126eb9b17a0e90e5da64c5$"
+}
+}

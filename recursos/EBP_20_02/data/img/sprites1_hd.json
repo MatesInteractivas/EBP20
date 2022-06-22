@@ -1,0 +1,164 @@
+{"frames": {
+
+"car_2.png":
+{
+	"frame": {"x":1774,"y":376,"w":236,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":236,"h":114},
+	"sourceSize": {"w":236,"h":114}
+},
+"character_2.png":
+{
+	"frame": {"x":1248,"y":522,"w":598,"h":690},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":598,"h":690},
+	"sourceSize": {"w":598,"h":690}
+},
+"clouds.png":
+{
+	"frame": {"x":4,"y":4,"w":1956,"h":178},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1956,"h":178},
+	"sourceSize": {"w":1956,"h":178}
+},
+"gear_big.png":
+{
+	"frame": {"x":1850,"y":842,"w":152,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":158},
+	"sourceSize": {"w":152,"h":158}
+},
+"helicopter_big.png":
+{
+	"frame": {"x":4,"y":186,"w":1766,"h":332},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1766,"h":332},
+	"sourceSize": {"w":1766,"h":332}
+},
+"home.png":
+{
+	"frame": {"x":1842,"y":1590,"w":180,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":170},
+	"sourceSize": {"w":180,"h":170}
+},
+"info.png":
+{
+	"frame": {"x":1850,"y":494,"w":180,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":170},
+	"sourceSize": {"w":180,"h":170}
+},
+"info_cancel.png":
+{
+	"frame": {"x":1774,"y":186,"w":186,"h":186},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":186,"h":186},
+	"sourceSize": {"w":186,"h":186}
+},
+"modal_back.png":
+{
+	"frame": {"x":4,"y":522,"w":1240,"h":826},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1240,"h":826},
+	"sourceSize": {"w":1240,"h":826}
+},
+"monster_1.png":
+{
+	"frame": {"x":1850,"y":1104,"w":74,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":84},
+	"sourceSize": {"w":74,"h":84}
+},
+"monster_2.png":
+{
+	"frame": {"x":1850,"y":1004,"w":98,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":96},
+	"sourceSize": {"w":98,"h":96}
+},
+"monster_3.png":
+{
+	"frame": {"x":1248,"y":1216,"w":50,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":52},
+	"sourceSize": {"w":50,"h":52}
+},
+"monster_4.png":
+{
+	"frame": {"x":1638,"y":1794,"w":64,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":36},
+	"sourceSize": {"w":64,"h":36}
+},
+"next.png":
+{
+	"frame": {"x":1638,"y":1590,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200}
+},
+"title_1.png":
+{
+	"frame": {"x":1324,"y":1216,"w":690,"h":370},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":690,"h":370},
+	"sourceSize": {"w":690,"h":370}
+},
+"title_3.png":
+{
+	"frame": {"x":4,"y":1352,"w":1316,"h":478},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1316,"h":478},
+	"sourceSize": {"w":1316,"h":478}
+},
+"voice.png":
+{
+	"frame": {"x":1850,"y":668,"w":180,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":170},
+	"sourceSize": {"w":180,"h":170}
+},
+"worm_1.png":
+{
+	"frame": {"x":1324,"y":1590,"w":310,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":310,"h":108},
+	"sourceSize": {"w":310,"h":108}
+},
+"worm_2.png":
+{
+	"frame": {"x":1324,"y":1702,"w":310,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":310,"h":108},
+	"sourceSize": {"w":310,"h":108}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "sprites1_hd.png",
+	"format": "RGBA8888",
+	"size": {"w":2036,"h":1834},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f4230fcea214aaad6dc885f6484afb0d:9ad0523d36dd1836522e248d627c90de:7acb7d70f99d9d2ec5103daa255be9b9$"
+}
+}

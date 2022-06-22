@@ -1,0 +1,92 @@
+{"frames": {
+
+"1_cutout.png":
+{
+	"frame": {"x":2,"y":2,"w":421,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":421,"h":420},
+	"sourceSize": {"w":421,"h":420}
+},
+"1_example_1.png":
+{
+	"frame": {"x":425,"y":412,"w":256,"h":252},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":252},
+	"sourceSize": {"w":256,"h":252}
+},
+"1_example_2.png":
+{
+	"frame": {"x":495,"y":666,"w":145,"h":145},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":145,"h":145},
+	"sourceSize": {"w":145,"h":145}
+},
+"1_example_3.png":
+{
+	"frame": {"x":338,"y":666,"w":155,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":155,"h":154},
+	"sourceSize": {"w":155,"h":154}
+},
+"1_full.png":
+{
+	"frame": {"x":425,"y":2,"w":409,"h":408},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":409,"h":408},
+	"sourceSize": {"w":409,"h":408}
+},
+"1_part_1.png":
+{
+	"frame": {"x":213,"y":424,"w":209,"h":208},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":209,"h":208},
+	"sourceSize": {"w":209,"h":208}
+},
+"1_part_2.png":
+{
+	"frame": {"x":683,"y":622,"w":208,"h":208},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":208,"h":208},
+	"sourceSize": {"w":208,"h":208}
+},
+"1_part_3.png":
+{
+	"frame": {"x":2,"y":424,"w":209,"h":208},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":209,"h":208},
+	"sourceSize": {"w":209,"h":208}
+},
+"1_part_4.png":
+{
+	"frame": {"x":683,"y":412,"w":208,"h":208},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":208,"h":208},
+	"sourceSize": {"w":208,"h":208}
+},
+"1_title.png":
+{
+	"frame": {"x":2,"y":634,"w":334,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":334,"h":83},
+	"sourceSize": {"w":334,"h":83}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "circle_sd.png",
+	"format": "RGBA8888",
+	"size": {"w":893,"h":832},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:43d6d5707a8bfcf9bcf26be4bcde295b:1/1$"
+}
+}
